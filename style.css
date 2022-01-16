@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;    
+    }
+    h1{
+    background:lightcoral; 
+    padding: 15px;
+    }
+    
+    p{
+    padding:10px; 
+    font-size:25px;   
+    font-family: 'Barlow Condensed', sans-serif;
+    }
+    #show_sketch{
+    float: right;    
+    }
